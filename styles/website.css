@@ -1,0 +1,14 @@
+/* 自定义样式 */
+.book-summary {
+    background-color: #fafafa;
+  }
+  
+  .book-summary ul.summary li.active>a {
+    color: #3884ff;
+    font-weight: bold;
+  }
+  
+  .page-inner {
+    max-width: 900px;
+    padding: 20px 30px;
+  }
